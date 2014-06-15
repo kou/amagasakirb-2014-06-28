@@ -83,7 +83,8 @@
     * Ruby/ClutterGStreamer
     * Ruby/WebKitGTK
     * Ruby/WebKitGTK2
-  * bundle-milkode - bundle installしたらMilkodeのデータベースに登録するプラグイン
+  * gem-milkode - gem installしたらMilkodeのデータベースに登録するプラグイン
+  * bundle-milkode - bundleの代わりにbundle-milkodeとすればMilkodeのデータベースに登録するプラグイン
   * segv-handler-gdb - SEGVしたらGDBでバックトレースを出力するRubyのライブラリー
   * jekyll-task-i18n - Jekyllで国際化を実現するためのツール
   * YARD - Ruby用のドキュメントツール。国際化対応機能を追加した。まだやることはある。
