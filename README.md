@@ -87,6 +87,7 @@
   * bundle-milkode - bundleの代わりにbundle-milkodeとすればMilkodeのデータベースに登録するプラグイン
   * segv-handler-gdb - SEGVしたらGDBでバックトレースを出力するRubyのライブラリー
   * jekyll-task-i18n - Jekyllで国際化を実現するためのツール
+  * redmine-plugin-wiki-change-notifier - RedmineのWikiを変更したらメールでdiffを送るプラグイン
   * YARD - Ruby用のドキュメントツール。国際化対応機能を追加した。まだやることはある。
   * RDoc - Ruby用のドキュメントツール。国際化対応機能を追加した。まだやることはある。
   * Cutter - C/C++用のテスティングフレームワーク。
